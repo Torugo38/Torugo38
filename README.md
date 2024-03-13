@@ -44,10 +44,9 @@
 ##
 
 
-
-
-
-
-
-
-
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Torugo38/Torugo38/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
