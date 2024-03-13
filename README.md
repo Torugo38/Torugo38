@@ -25,19 +25,22 @@
 ##
 
 <div align="center" >
-<a href="mailto:vhcriscollo2001@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
 <a href="https://wa.me//5531999295691">
   <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/victor-hugo-moreira-5ab559235/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
+<a href="mailto:vhcriscollo2001@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
+
 </div>
 
+##
 
-![snake gif](https://github.com/Torugo38/Torugo38/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Torugo38/Torugo38/blob/output/github-contribution-grid-snake.svg)
